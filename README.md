@@ -1,4 +1,4 @@
-# Trabajo-pr-ctico-integrador-grupal
+# Trabajo-practico-integrador-grupal
 Trabajo Practico integrador realizado por: 
 Malena Aquino
 Amanda Gisbert 
